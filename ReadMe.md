@@ -11,7 +11,7 @@ Implementation of Atari Breakout using Deep Reinforcement Leaerning. The agent l
 Deep Q-Learning is is a model-free reinforcement learning algorithm that uses a Q-network, a target network and replay buffer to train the agent. The general form of DQN algorithm is:
 
 <p align="center">
-    <img src="Algorithm.png" alt="Figure2" width="380"/>
+    <img src="Algorithm.png" alt="Figure2" width="500"/>
     <br>
     <em>Deep Q-Learning algorithm.</em>
 </p>
